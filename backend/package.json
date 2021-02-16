@@ -29,7 +29,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "aacc870e-8024-46e0-b816-626ddb9b3422",
+    "uuid": "9bd0bb85-560e-4bed-b320-3a579b361a4b",
     "template": "https://github.com/strapi/strapi-template-blog"
   },
   "engines": {
