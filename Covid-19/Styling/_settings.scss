@@ -1,0 +1,16 @@
+$color-white: #fff;
+$color-blue: #3279a6;
+$color-lightblue: #59b5d9;
+$color-darkblue: #094173;
+
+@font-face {
+  font-family: HelveticaNeuCondensedBold;
+  src: url(../helvetica-neue/HelveticaNeueBoldCondensed.ttf);
+}
+
+@font-face {
+  font-family: HelveticaNeuMedium;
+  src: url(../helvetica-neue/HelveticaNeueCyr-Medium.ttf);
+}
+
+$font-regular: HelveticaNeu;

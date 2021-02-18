@@ -1,0 +1,12 @@
+@import "settings";
+
+@import "generic.normalize";
+@import "../bootstrap-5.0.0-beta1-dist/css/bootstrap.css";
+
+@import "elements";
+
+@import "objects";
+
+@import "bootstrap.override";
+@import "component.nav.scss";
+@import "component.footer.scss";
